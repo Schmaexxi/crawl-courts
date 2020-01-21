@@ -4,3 +4,5 @@ Problems.txt
 old_request.py
 .idea
 Documentation/
+
+__pycache__/

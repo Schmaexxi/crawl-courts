@@ -1,0 +1,425 @@
+{
+    "Bundesgerichtshof": [
+        "https://www.bundesgerichtshof.de/",
+        "http://www.zeit.de/gesellschaft/zeitgeschehen/2015-06/bundesgerichtshof-justiz-fischer-im-recht/komplettansicht"
+    ],
+    "Bundesverwaltungsgericht (Deutschland)": [
+        "https://www.bverwg.de/",
+        "http://sorminiserv.unibe.ch:8080/tools/ainfo.exe?Command=ShowPrintVersion&Name=bv008174",
+        "https://3dwarehouse.sketchup.com/model.html?id=56037a07ab7b5fe8787b11644657d2c7&prevstart=0",
+        "http://panoramastreetline.de/bundesverwaltungsgericht-leipzig-deutschland-P648",
+        "http://gigapan.com/gigapans/12337"
+    ],
+    "Bundespatentgericht (Deutschland)": [
+        "https://www.bundespatentgericht.de/",
+        "https://archive.today/20151128090124/http://www.grur.de/cms/front_content.php?idcat=31",
+        "https://juris.bundespatentgericht.de/cgi-bin/rechtsprechung/list.py?Gericht=bpatg&Art=en&Sort=12288&Datum=Aktuell"
+    ],
+    "Wehrstrafgericht": [
+        "https://www.spiegel.de/spiegel/print/d-13526321.html"
+    ],
+    "Gemeinsamer Senat der obersten Gerichtsh\u00f6fe des Bundes": [
+        "https://www.bundesgerichtshof.de/DE/DasGericht/Organisation/Senate/GemeinsamerSenat/gemeinsamerSenat_node.html",
+        "https://www.bundesgerichtshof.de/DE/DasGericht/Organisation/Senate/GemeinsamerSenat/EntscheidungenGemSenat/entscheidungenGemSenat_node.html"
+    ],
+    "Oberlandesgericht": [
+        "https://portal.dnb.de/opac.htm?method=simpleSearch&query=4172277-2"
+    ],
+    "Gerichtsverfassungsgesetz": [
+        "https://www.gesetze-im-internet.de/gvg/index.html"
+    ],
+    "Amtsgericht B\u00fchl": [
+        "http://www.agbuehl.de/"
+    ],
+    "Amtsgericht Karlsruhe": [
+        "http://www.agkarlsruhe.de",
+        "http://www.agkarlsruhe.de/servlet/PB/show/1178589/Geschichte%20und%20Geschichten.pdf"
+    ],
+    "Amtsgericht Bad S\u00e4ckingen": [
+        "http://www.agbadsaeckingen.de/servlet/PB/menu/1166156/index.html"
+    ],
+    "Amtsgericht St. Blasien": [
+        "http://www.agblasien.de/servlet/PB/menu/1166252/index.html"
+    ],
+    "Amtsgericht Sch\u00f6nau": [
+        "http://www.amtsgericht-schoenau.de/servlet/PB/menu/1166348/index.html"
+    ],
+    "Amtsgericht Waldshut-Tiengen": [
+        "http://www.amtsgericht-waldshut-tiengen.de/servlet/PB/menu/1163646/index.html"
+    ],
+    "Amtsgericht Langenburg": [
+        "http://www.amtsgericht-langenburg.de/"
+    ],
+    "Amtsgericht Albstadt": [
+        "http://www.amtsgericht-albstadt.de/pb/,Lde/Startseite"
+    ],
+    "Amtsgericht K\u00fcnzelsau": [
+        "http://www.amtsgericht-k\u00fcnzelsau.de/pb/,Lde/Startseite"
+    ],
+    "Amtsgericht Bad Waldsee": [
+        "http://www.agwaldsee.de/servlet/PB/menu/1170661/index.html"
+    ],
+    "Amtsgericht Schorndorf": [
+        "http://www.amtsgericht-schorndorf.de/pb/,Lde/Startseite"
+    ],
+    "Amtsgericht Stuttgart": [
+        "http://www.amtsgericht-stuttgart.de"
+    ],
+    "Landessozialgericht Baden-W\u00fcrttemberg": [
+        "http://www.landessozialgericht-baden-wuerttemberg.de/",
+        "http://lrbw.juris.de/cgi-bin/laender_rechtsprechung/list.py?Gericht=bw&GerichtAuswahl=LSG+Baden-W%FCrttemberg&Art=en"
+    ],
+    "Verwaltungsgerichtshof Baden-W\u00fcrttemberg": [
+        "http://vghmannheim.de/"
+    ],
+    "Amtsgericht Wunsiedel": [
+        "http://www.justiz.bayern.de/gericht/ag/wun/"
+    ],
+    "Amtsgericht Gem\u00fcnden am Main": [
+        "http://www.justiz.bayern.de/gericht/ag/gem/"
+    ],
+    "Amtsgericht Kaufbeuren": [
+        "http://www.justiz.bayern.de/gericht/ag/kf/"
+    ],
+    "Amtsgericht Kempten": [
+        "http://www.justiz.bayern.de/gericht/ag/ke/"
+    ],
+    "Amtsgericht Sonthofen": [
+        "http://www.justiz.bayern.de/gericht/ag/sf/"
+    ],
+    "Amtsgericht Landau an der Isar": [
+        "http://www.justiz.bayern.de/gericht/ag/lan/"
+    ],
+    "Amtsgericht M\u00fcnchen": [
+        "http://www.justiz.bayern.de/gericht/ag/m/"
+    ],
+    "Amtsgericht Garmisch-Partenkirchen": [
+        "http://www.justiz.bayern.de/gericht/ag/gap/"
+    ],
+    "Amtsgericht Weilheim in Oberbayern": [
+        "http://www.justiz.bayern.de/gericht/ag/wm/"
+    ],
+    "Amtsgericht Freyung": [
+        "http://www.justiz.bayern.de/gericht/ag/frg/",
+        "http://www.geodaten.bayern.de/denkmal_static_data/externe_denkmalliste/pdf/denkmalliste_merge_272118.pdf"
+    ],
+    "Amtsgericht Alt\u00f6tting": [
+        "http://www.justiz.bayern.de/gericht/ag/aoe/"
+    ],
+    "Amtsgericht Laufen": [
+        "http://www.justiz.bayern.de/gericht/ag/lf/"
+    ],
+    "Amtsgericht M\u00fchldorf am Inn": [
+        "http://www.justiz.bayern.de/gericht/ag/mue/"
+    ],
+    "Amtsgericht Wei\u00dfenburg i. Bay.": [
+        "http://www.justiz.bayern.de/gericht/ag/wug/"
+    ],
+    "Amtsgericht Neumarkt in der Oberpfalz": [
+        "http://www.justiz.bayern.de/gericht/ag/nm/"
+    ],
+    "Amtsgericht Neustadt an der Aisch": [
+        "http://www.justiz.bayern.de/gericht/ag/nea/"
+    ],
+    "Amtsgericht Tirschenreuth": [
+        "http://www.justiz.bayern.de/gericht/ag/tir/"
+    ],
+    "Arbeitsgericht M\u00fcnchen": [
+        "http://www.lag.bayern.de/muenchen/gerichte/muenchen/index.php"
+    ],
+    "Bayerisches Landessozialgericht": [
+        "https://www.lsg.bayern.de/"
+    ],
+    "Bayerischer Verwaltungsgerichtshof": [
+        "http://www.vgh.bayern.de/BayVGH/",
+        "https://www.historisches-lexikon-bayerns.de/artikel/artikel_44672"
+    ],
+    "Kammergericht": [
+        "https://tools.wmflabs.org/panoviewer/#Kammergericht,_Berlin-Sch\u00f6neberg,_Treppenhalle,_360x180,_160809,_ako.jpg",
+        "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09066442",
+        "https://www.berlin.de/sen/justiz/gerichte/kg/",
+        "https://architekturmuseum.ub.tu-berlin.de/index.php?p=51&O=125651"
+    ],
+    "Oberverwaltungsgericht Berlin-Brandenburg": [
+        "http://www.berlin.de/sen/justiz/gerichte/ovg/",
+        "http://www.berlin-brandenburg.de/imperia/md/content/bbhomepage/staatsvertraggemeinsamegerichte.pdf",
+        "https://www.stadtentwicklung.berlin.de/denkmal/liste_karte_datenbank/de/denkmaldatenbank/daobj.php?obj_dok_nr=09020677"
+    ],
+    "Amtsgericht Cottbus": [
+        "http://www.ag-cottbus.brandenburg.de/",
+        "https://ns.gis-bldam-brandenburg.de/hida4web/view?docId=obj09100287.xml"
+    ],
+    "Amtsgericht Zehdenick": [
+        "http://www.ag-zehdenick.brandenburg.de/sixcms/detail.php?query=allgemein_agzed&sv%5brelation_agzed.gsid%5d=lbm1.c.278545.de&template=seite_agzed_start",
+        "https://web.archive.org/web/20050504161441/http://drb-brandenburg.de/seite8.htm"
+    ],
+    "Brandenburgisches Gerichtsorganisationsgesetz": [
+        "http://www.bravors.brandenburg.de/sixcms/detail.php?gsid=land_bb_bravors_01.c.51598.de#"
+    ],
+    "Amtsgericht Bremen-Blumenthal": [
+        "http://www.amtsgericht-blumenthal.bremen.de/"
+    ],
+    "Landessozialgericht Niedersachsen-Bremen": [
+        "http://www.landessozialgericht.niedersachsen.de/"
+    ],
+    "Oberverwaltungsgericht der Freien Hansestadt Bremen": [
+        "http://www.oberverwaltungsgericht.bremen.de/"
+    ],
+    "Hamburgisches Oberverwaltungsgericht": [
+        "http://justiz.hamburg.de/oberverwaltungsgericht/"
+    ],
+    "Amtsgericht F\u00fcrth (Hessen)": [
+        "http://www.ag-fuerth.justiz.hessen.de/",
+        "http://digitalisate.hadis.hessen.de/pdf/hstad/vorworte/g28_fuerth_vorwort.pdf"
+    ],
+    "Amtsgericht Langen (Hessen)": [
+        "http://www.ag-langen.justiz.hessen.de/"
+    ],
+    "Amtsgericht H\u00fcnfeld": [
+        "http://www.ag-huenfeld.justiz.hessen.de/"
+    ],
+    "Amtsgericht Melsungen": [
+        "http://www.ag-melsungen.justiz.hessen.de/"
+    ],
+    "Amtsgericht Frankenberg (Eder)": [
+        "http://www.ag-frankenberg.justiz.hessen.de/"
+    ],
+    "Amtsgericht Bad Schwalbach": [
+        "http://denkxweb.denkmalpflege-hessen.de/13463/",
+        "http://www.ag-badschwalbach.justiz.hessen.de/",
+        "http://schloesser.gnm.de/wiki/Bad_Schwalbach,_Rotenburger_Schl%C3%B6sschen"
+    ],
+    "Amtsgericht R\u00fcdesheim am Rhein": [
+        "http://www.ag-ruedesheim.justiz.hessen.de/"
+    ],
+    "Amtsgericht Idstein": [
+        "http://www.ag-idstein.justiz.hessen.de/"
+    ],
+    "Hessischer Verwaltungsgerichtshof": [
+        "http://www.vgh-kassel.justiz.hessen.de/"
+    ],
+    "Verwaltungsgericht Frankfurt am Main": [
+        "https://commons.wikimedia.org/wiki/Category:Verwaltungsgericht_Frankfurt_am_Main?uselang=de",
+        "http://www.vg-frankfurt.justiz.hessen.de/irj/VG_Frankfurt_am_Main_Internet?cid=2f50a91de7ac53860126cd1c53153988",
+        "http://www.lareda.hessenrecht.hessen.de/jportal/portal/page/bslaredaprod.psml"
+    ],
+    "Gerichtsorganisationsgesetz (Hessen)": [
+        "https://www.rv.hessenrecht.hessen.de/cgi-bin/lexsoft/hessenrecht-rv.cgi?sessionID=416616032763003282&templateID=document&source=htilist&chosenIndex=UAN_nv_3470&task=chose_fliesstext&xid=169432,1,20121222&highlighting=off#gesetz_fliesstext_169432,1,20121222"
+    ],
+    "Gerichtsstrukturgesetz": [
+        "http://www.landesrecht-mv.de/jportal/portal/page/bsmvprod.psml?showdoccase=1&doc.id=jlr-GerStrukGMVrahmen&doc.part=X&doc.origin=bs&st=lr"
+    ],
+    "Amtsgericht Rinteln": [
+        "http://www.amtsgericht-rinteln.niedersachsen.de/"
+    ],
+    "Amtsgericht Stadthagen": [
+        "http://www.amtsgericht-stadthagen.niedersachsen.de/"
+    ],
+    "Amtsgericht Neustadt am R\u00fcbenberge": [
+        "http://www.amtsgericht-neustadt.niedersachsen.de/live/live.php?navigation_id=17434&_psmand=109"
+    ],
+    "Amtsgericht Wennigsen (Deister)": [
+        "http://www.amtsgericht-wennigsen.niedersachsen.de/master/C6402891_L20_D0.html"
+    ],
+    "Amtsgericht Soltau": [
+        "http://www.amtsgericht-soltau.niedersachsen.de/"
+    ],
+    "Amtsgericht Stolzenau": [
+        "http://www.amtsgericht-stolzenau.niedersachsen.de/"
+    ],
+    "Amtsgericht Sulingen": [
+        "http://www.amtsgericht-sulingen.niedersachsen.de/"
+    ],
+    "Amtsgericht Brake": [
+        "http://www.amtsgericht-brake.niedersachsen.de",
+        "https://openjur.de/gericht_e-836.html"
+    ],
+    "Amtsgericht Westerstede": [
+        "http://www.amtsgericht-westerstede.niedersachsen.de/portal/"
+    ],
+    "Nieders\u00e4chsisches Oberverwaltungsgericht": [
+        "http://www.oberverwaltungsgericht.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp"
+    ],
+    "Verwaltungsgericht Braunschweig": [
+        "http://www.verwaltungsgericht-braunschweig.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp"
+    ],
+    "Verwaltungsgericht G\u00f6ttingen": [
+        "http://www.verwaltungsgericht-goettingen.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp"
+    ],
+    "Verwaltungsgericht Hannover": [
+        "http://www.verwaltungsgericht-hannover.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp"
+    ],
+    "Verwaltungsgericht Oldenburg": [
+        "http://www.verwaltungsgericht-oldenburg.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp",
+        "http://www.bverwg.de/files/65edcf507b10be87d5325398a3cb697e/4167/100JahreOldenburg.pdf"
+    ],
+    "Verwaltungsgericht Osnabr\u00fcck": [
+        "http://www.verwaltungsgericht-osnabrueck.niedersachsen.de/"
+    ],
+    "Verwaltungsgericht Stade": [
+        "http://www.verwaltungsgericht-stade.niedersachsen.de/",
+        "http://www.dbovg.niedersachsen.de/index.asp"
+    ],
+    "Amtsgericht Medebach": [
+        "http://www.ag-medebach.nrw.de"
+    ],
+    "Amtsgericht Menden (Sauerland)": [
+        "http://www.ag-menden.nrw.de"
+    ],
+    "Amtsgericht Schmallenberg": [
+        "http://www.ag-schmallenberg.nrw.de"
+    ],
+    "Amtsgericht B\u00fcnde": [
+        "http://www.ag-buende.nrw.de/"
+    ],
+    "Amtsgericht L\u00fcbbecke": [
+        "http://www.ag-luebbecke.nrw.de/"
+    ],
+    "Amtsgericht Castrop-Rauxel": [
+        "http://www.ag-castrop-rauxel.nrw.de"
+    ],
+    "Amtsgericht Essen-Borbeck": [
+        "http://www.ag-essenborbeck.nrw.de",
+        "http://www.justiz.nrw.de/Gerichte_Behoerden/anschriften/uebersichtskarten/ordentliche_gerichtsbarkeiten/olg_hamm/lg_bez_essen/index.php"
+    ],
+    "Amtsgericht Wetter (Ruhr)": [
+        "http://www.ag-wetter.nrw.de"
+    ],
+    "Amtsgericht Altena": [
+        "http://www.ag-altena.nrw.de/"
+    ],
+    "Amtsgericht Ahaus": [
+        "http://www.ag-ahaus.nrw.de"
+    ],
+    "Amtsgericht Beckum": [
+        "http://www.ag-beckum.nrw.de"
+    ],
+    "Amtsgericht D\u00fclmen": [
+        "http://www.ag-duelmen.nrw.de/"
+    ],
+    "Amtsgericht Gronau": [
+        "http://www.ag-gronau.nrw.de"
+    ],
+    "Amtsgericht Steinfurt": [
+        "http://www.ag-steinfurt.nrw.de/"
+    ],
+    "Amtsgericht Monschau": [
+        "http://www.ag-monschau.nrw.de"
+    ],
+    "Amtsgericht Schleiden": [
+        "http://www.ag-Schleiden.nrw.de"
+    ],
+    "Landesarbeitsgericht K\u00f6ln": [
+        "http://www.lag-koeln.nrw.de/"
+    ],
+    "Landessozialgericht Nordrhein-Westfalen": [
+        "http://www.lsg.nrw.de/"
+    ],
+    "Oberverwaltungsgericht f\u00fcr das Land Nordrhein-Westfalen": [
+        "http://www.ovg.nrw.de/",
+        "http://www.forum-recht-online.de/2003/103/103scholle.htm"
+    ],
+    "Amtsgericht Bad Neuenahr-Ahrweiler": [
+        "https://agaw.justiz.rlp.de/de/startseite/",
+        "http://www.aw-wiki.de/index.php/Amtsgericht_Bad_Neuenahr-Ahrweiler"
+    ],
+    "Amtsgericht Bad D\u00fcrkheim": [
+        "https://agduw.justiz.rlp.de/de/startseite/"
+    ],
+    "Amtsgericht Gr\u00fcnstadt": [
+        "http://aggru.justiz.rlp.de/de/startseite/"
+    ],
+    "Amtsgericht Neustadt an der Weinstra\u00dfe": [
+        "https://agnw.justiz.rlp.de/de/startseite/"
+    ],
+    "Amtsgericht Kusel": [
+        "https://agkus.justiz.rlp.de/de/startseite/"
+    ],
+    "Amtsgericht Pirmasens": [
+        "https://agps.justiz.rlp.de/de/startseite/"
+    ],
+    "Landessozialgericht Rheinland-Pfalz": [
+        "http://www.lsgrp.justiz.rlp.de"
+    ],
+    "Oberverwaltungsgericht Rheinland-Pfalz": [
+        "http://www.ovg.justiz.rlp.de/"
+    ],
+    "Oberverwaltungsgericht des Saarlandes": [
+        "http://www.ovg.saarland.de/"
+    ],
+    "Amtsgericht D\u00f6beln": [
+        "http://www.justiz.sachsen.de/agdl/content/6.htm",
+        "http://www.d\u00f6beln.de/html/amtsgericht.html",
+        "http://www.ib-radisch.de/ref/Amtsgericht_Doebeln.jpg"
+    ],
+    "Amtsgericht Kamenz": [
+        "http://www.justiz.sachsen.de/agkm/",
+        "http://www.schugru.de/Referenzbilder/Amtsgericht%20Kamenz.jpg"
+    ],
+    "S\u00e4chsisches Oberverwaltungsgericht": [
+        "http://www.justiz.sachsen.de/ovg/"
+    ],
+    "Landgericht Dessau-Ro\u00dflau": [
+        "http://www.lg-de.sachsen-anhalt.de/landgericht/kontakt/"
+    ],
+    "Amtsgericht Dessau-Ro\u00dflau": [
+        "http://www.ag-de.sachsen-anhalt.de/"
+    ],
+    "Amtsgericht Merseburg": [
+        "https://www.deutsche-digitale-bibliothek.de/item/ZBKUBJCM3BDAIXGTDEQGMMRZK52OYELP",
+        "http://www.ag-mer.sachsen-anhalt.de/amtsgericht-merseburg/",
+        "https://www.zwangsversteigerung.de/Amtsgericht/Merseburg/in_ST"
+    ],
+    "Arbeitsgericht Halle": [
+        "http://www.arbg-hal.sachsen-anhalt.de/arbeitsgericht/"
+    ],
+    "Landessozialgericht Sachsen-Anhalt": [
+        "http://www.lsg.sachsen-anhalt.de/landessozialgericht-sachsen-anhalt/"
+    ],
+    "Oberverwaltungsgericht des Landes Sachsen-Anhalt": [
+        "http://www.ovg.sachsen-anhalt.de"
+    ],
+    "Landgericht Kiel": [
+        "http://www.schleswig-holstein.de/DE/Justiz/LGKIEL/lgkiel_node.html",
+        "http://www.lrz-muenchen.de/~Lorenz/urteile/NJW98_2539.htm"
+    ],
+    "Amtsgericht Altenburg": [
+        "http://www.archive-in-thueringen.de/index.php?major=archiv&action=detail&object=bestand&id=21521",
+        "http://www.archive-in-thueringen.de/index.php?major=archiv&action=detail&object=bestand&id=21524",
+        "http://www.thueringen.de/th4/olg/gerichte_in_thueringen/landgericht_gera/ags/amtsgericht_altenburg/"
+    ],
+    "Amtsgericht Gera": [
+        "http://www.thueringen.de/th4/olg/gerichte_in_thueringen/landgericht_gera/ags/amtsgericht_gera/",
+        "http://www.thueringen.de/th4/olg/gerichte_in_thueringen/landgericht_gera/ags/amtsgericht_gera/geschichte/index.aspx"
+    ],
+    "Amtsgericht Rudolstadt": [
+        "http://www.thueringen.de/th4/olg/gerichte_in_thueringen/landgericht_gera/ags/amtsgericht_rudolstadt/"
+    ],
+    "Arbeitsgericht Erfurt": [
+        "http://landesarbeitsgericht.thueringen.de/gerichte/arbg_EF.htm"
+    ],
+    "Arbeitsgericht Gera": [
+        "https://www.thueringen.de/th4/lag/arbeitsgerichte/gera/"
+    ],
+    "Arbeitsgericht Nordhausen": [
+        "https://www.thueringen.de/th4/lag/arbeitsgerichte/nordhausen/index.aspx"
+    ],
+    "Arbeitsgericht Suhl": [
+        "http://www.lexsoft.de/lexisnexis/justizportal_nrw.cgi?xid=171886,1",
+        "https://www.thueringen.de/th4/lag/arbeitsgerichte/suhl/index.aspx"
+    ],
+    "Th\u00fcringer Landessozialgericht": [
+        "http://www.thlsg.thueringen.de/webthfj/webthfj.nsf/$$serviceliste/startseitethlsg?opendocument&thlsg&startseite"
+    ],
+    "Th\u00fcringer Oberverwaltungsgericht": [
+        "http://www.thovg.thueringen.de/"
+    ],
+    "Th\u00fcringer Gerichtsstandortgesetz": [
+        "http://landesrecht.thueringen.de/jportal/?quelle=jlink&query=GStG+TH&psml=bsthueprod.psml&max=true&aiz=true"
+    ]
+}
