@@ -23,7 +23,7 @@ def save_to_file(content: str, dest_file: str):
         f.write(str(content))
 
 
-def get_soup(url_: str, parser: str = "lxml"):
+def get_soup(url_: str, parser: str = "lxml", retry_strategy='None'):
     """
     starts an http GET-request and, if successful, returns its contents as a BeautifulSoup item
     :param url_: url to request
@@ -31,7 +31,10 @@ def get_soup(url_: str, parser: str = "lxml"):
     :return: None or BeautifulSoup object
     """
     try:
-        r = requests.get(url_)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36'
+        }
+        r = requests.get(url_, headers=headers)
     except requests.exceptions.ConnectionError as e:
         print(e)
         r = None

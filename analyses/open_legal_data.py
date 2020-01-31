@@ -1,7 +1,8 @@
 from json import dump, dumps, loads, JSONEncoder, JSONDecoder
 from crawl_util import get_file_len
 
-
+# data from https://static.openlegaldata.io/dumps/de/
+# from 21.10.2019
 f_name = "/Users/maximilianlangknecht/Downloads/cases.json"
 court_output_name = "data/open_legal_data_courts.json"
 print(get_file_len(f_name)) # 106325
