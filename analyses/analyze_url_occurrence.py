@@ -2,6 +2,7 @@ import json
 import re
 import matplotlib.pyplot as plt
 from textwrap import wrap
+from crawl_util import find_nth_occurance
 
 
 def count_urls_from_wikipedia(in_file):
@@ -12,11 +13,8 @@ def count_urls_from_wikipedia(in_file):
     court_count_with_website = 0
 
     dejure_counter, juris_counter = 0, 0
-
     courts_without_dejure = {}
-
     court_names = set()
-
     url_frequency_by_state = {}
 
     t = True
@@ -32,7 +30,11 @@ def count_urls_from_wikipedia(in_file):
                 key = next(iter(court))
                 court_names.add(key)
                 for url in court[key]:
-                    cut_url = url[:url.find("?")]
+                    # cut url after domain
+                    cut_url = url[:find_nth_occurance(url, '/', 3)]
+                    if cut_url.startswith('http') and not cut_url.startswith("https"):
+                        cut_url = "https" + cut_url[4:]
+                    # cut_url = url[:url.find('?')]
                     if url_frequency_by_state[current_state].get(cut_url):
                         url_frequency_by_state[current_state][cut_url] += 1
                     else:
@@ -79,9 +81,9 @@ for k, v in url_frequency_by_state.items():
     plt.barh(range(len(url_frequency_by_state[k])), list(url_frequency_by_state[k].values()))
     plt.yticks(range(len(url_frequency_by_state[k])), labels, rotation='horizontal')
     plt.tick_params(axis='y', which='major', labelsize=8)
-    #plt.xlabel("Court type (abbreviated)")
+    # plt.xlabel("Court type (abbreviated)")
     plt.title(f"Number of links by most common url for \n{k}")
-    #plt.legend((p1[0], p2[0]), ('Judgements in OLD', 'Judgements not in OLD'))
+    # plt.legend((p1[0], p2[0]), ('Judgements in OLD', 'Judgements not in OLD'))
     plt.tight_layout()
-    plt.savefig(f"plots/urls_{k}")
+    plt.savefig(f"plots/urls_{k}_domain_specific")
     plt.show()

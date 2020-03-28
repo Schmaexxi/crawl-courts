@@ -6,7 +6,7 @@ import atexit
 
 dest_file: str = "../data/judgements_ba_wue.json"
 
-start_year: int = 2000
+start_year: int = 2000  # earliest date for their documented court decisions
 this_year: int = datetime.datetime.now().year
 
 max_page = 0

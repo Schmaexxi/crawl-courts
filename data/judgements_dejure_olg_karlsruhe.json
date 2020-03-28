@@ -1,6 +1,6 @@
 {
     "page": 291,
-    "file_number": {
+        "file_number": {
         "17 U 146/19": "19.11.2019",
         "13 U 142/18": "OLG",
         "2 Rv 10 Ss 581/16": "10.07.2017",
@@ -13971,7 +13971,7 @@
         "17 U 12/18": "OLG",
         "12a W 1/15": "OLG",
         "10 W 12/19": "OLG"
-    },
+        },
     "not_working_links": [
         "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG%20Karlsruhe&Datum=19.11.1954&Aktenzeichen=1%20Ss%20220%2F54",
         "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG%20Karlsruhe&Datum=14.08.1972&Aktenzeichen=2%20Ws%20131%2F72",

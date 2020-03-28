@@ -6,6 +6,13 @@ import json
 from urllib.parse import unquote
 
 
+def find_nth_occurance(str_, match, n):
+    parts = str_.split(match, n)
+    if len(parts) <= n:
+        return -1
+    return len(str_) - len(parts[-1]) - len(match)
+
+
 def nap(duration: int = 2):
     """
     sleep for a duration roughly specified by the input parameter
